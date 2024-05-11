@@ -1,5 +1,5 @@
 # The Hotem Management Project
 
-My main Project in React dev with dashboards 
+My main Project built with React and Supabase, for hotel guests management with dashboards
 
 Abdessamad EL FAQRI
